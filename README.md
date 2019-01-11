@@ -14,6 +14,7 @@ that simplify the problems.
 
 ### recursion
 https://www.hackerrank.com/challenges/ctci-recursive-staircase
+
 https://www.hackerrank.com/challenges/ctci-fibonacci-numbers
 
 ### time complexity
@@ -42,6 +43,7 @@ https://www.hackerrank.com/challenges/ctci-making-anagrams
 
 ### 03_hash_tables
 https://www.hackerrank.com/challenges/ctci-ransom-note
+
 https://www.hackerrank.com/challenges/ctci-ice-cream-parlor
 
 ### 05_stacks
