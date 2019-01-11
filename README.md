@@ -1,9 +1,14 @@
 # hackerrank
 Hackerrank solutions in various languages
 
-The CITI Series Is Still on Hackerrank, but the main page seems to be missing. Here are the problems with some sort of grouping:
+The CITI Series Is Still on Hackerrank, but the main page seems to be missing. Here are the problems with some sort of grouping.
 
 Everything with a * is interested but may be overkill for interviews :-)
+
+There is also a go version on these implementations: https://github.com/amay0048/ctci
+
+Node can actually be really tricky to implement these in within a reasonable runtime as its missing some of the key data structures
+that simplify the problems.
 
 ## 00_not_data_structures_or_algos
 
