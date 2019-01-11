@@ -10,7 +10,7 @@ There is also a go version on these implementations: https://github.com/amay0048
 Node can actually be really tricky to implement these in within a reasonable runtime as its missing some of the key data structures
 that simplify the problems.
 
-I prepped by working through each of the by first trying to get an implemention just based on the problem statement,
+I prepped by working through each of these, first trying to get an implemention just based on the problem statement,
 then watching the video on each page that explains the concepts and trying to refine my implementation to pass all cases.
 
 You can ignore the basic_stats directory (I mean stats, what was I thinking)
