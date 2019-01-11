@@ -3,6 +3,7 @@ Hackerrank solutions in various languages
 
 The CITI Series Is Still on Hackerrank, but the main page seems to be missing. Here are the problems with some sort of grouping:
 
+Everything with a * is interested but may be overkill for interviews :-)
 
 ## 00_not_data_structures_or_algos
 
@@ -19,7 +20,7 @@ https://www.hackerrank.com/challenges/ctci-comparator-sorting
 ### linked list
 https://www.hackerrank.com/challenges/ctci-linked-list-cycle
 
-### dynamic programming (this probably belongs in algos)
+### dynamic programming (this probably belongs in algos) *
 https://www.hackerrank.com/challenges/ctci-coin-change/problem
 
 ### bit manipulation
@@ -47,7 +48,7 @@ https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks
 ### 08_heaps
 https://www.hackerrank.com/challenges/ctci-find-the-running-median
 
-### 09_tries
+### 09_tries *
 https://www.hackerrank.com/challenges/ctci-contacts
 
 
@@ -59,11 +60,11 @@ HTtps://www.hackerrank.com/challenges/ctci-bubble-sort
 ### 03_merge_sort
 https://www.hackerrank.com/challenges/ctci-merge-sort
 
-### 04_binary_search
+### 04_binary_search *
 https://www.hackerrank.com/challenges/ctci-is-binary-search-tree
 
-### 05_depth_first_searc
+### 05_depth_first_search *
 https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid
 
-### 06_breadth_first_search
+### 06_breadth_first_search *
 https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach
