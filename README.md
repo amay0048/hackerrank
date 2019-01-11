@@ -3,7 +3,7 @@ Hackerrank solutions in various languages
 
 The CITI Series Is Still on Hackerrank, but the main page seems to be missing. Here are the problems with some sort of grouping.
 
-Everything with a * is interested but may be overkill for interviews :-)
+Everything with a * is interesting but may be overkill for interviews :-)
 
 There is also a go version on these implementations: https://github.com/amay0048/ctci
 
